@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226161194431",
+    "project_id": "gamezone-10237",
+    "storage_bucket": "gamezone-10237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226161194431:android:75c1ec8fc9f4c5838bdd0a",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogin_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226161194431-c9099mfvfel3k83gem1pobh7slilsba6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaVG-ib1Bw793glUF2ja1iEP9Kh0L6ydQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226161194431-c9099mfvfel3k83gem1pobh7slilsba6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

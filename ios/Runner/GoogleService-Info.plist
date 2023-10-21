@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDhiryXWYcbp7mj0sJK0BN4y_jLoKfNBkE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>226161194431</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterloginSignup</string>
+	<key>PROJECT_ID</key>
+	<string>gamezone-10237</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamezone-10237.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:226161194431:ios:5ddda8edf1a5a0f88bdd0a</string>
+</dict>
+</plist>
